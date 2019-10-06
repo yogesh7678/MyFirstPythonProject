@@ -1,5 +1,8 @@
 Hey There,
 
-Just to check if i can commit from local to repository
+Just to check if i can commit from local to repository.
+(First commit test success)
+
+Just to check if i can commit second time after modification to a file.
 
 Regards
